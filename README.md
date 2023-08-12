@@ -1,4 +1,4 @@
-<h1 align="center"> 🔐 LOCKBIT FACEBOOK </h1> 
+<h1 align="center"> 🔐 DARK-FACEBOOK </h1> 
 <div align="center">
 
 <img src="https://i.ibb.co/10HnkvD/IMG-20230811-132248.jpg" alt="IMG-20230811-132248" border="0">
@@ -18,8 +18,8 @@
   pkg update && pkg upgrade -y
   apt-get update && apt-get upgrade -y
   pkg install git
-  git clone https://github.com/DarkSystem505/BruteForceFacebook
-  cd BruteForceFacebook
+  git clone https://github.com/Darknet403/Darkfacebook
+  cd Darkfacebook
   bash install.sh
   ```
   </details>
@@ -37,4 +37,4 @@
 </div>
 <br>
 
-This Tools for using attack Faceboo* Don't use for ilegal but you can use for pentesting about secure of Faceboo* Im DarkSystem505 Cracking Master
+This Tools for using attack Faceboo* Don't use for ilegal but you can use for pentesting about secure of Faceboo* Im DarkNet403 Cracking Master
